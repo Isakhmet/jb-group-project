@@ -58,7 +58,7 @@
         "preferred-install": "dist",
         "sort-packages": true,
         "allow-plugins": {
-            "plesk/composer-command-info": true
+            "plesk/composer-command-info": false
         }
     },
     "minimum-stability": "dev",
